@@ -1,4 +1,4 @@
-# Mini Aplicativo MVC em PHP
+# Aplicativo simples em PHP usando MVC com PDO
 
 ## Criar um aplicativo com a arquitetura MVC usando o mini3:
 https://github.com/panique/mini3
@@ -134,6 +134,14 @@ Core/Model.php - classe básica das classes Model
 
 
 O MVC no framework CakePHP funciona de forma semelhante.
+
+## Como adicionar um novo CRUD para outra tabela
+
+- Adiciona a tabela no banco atual
+- Adicione o model para esta tabela
+- Adicione o controller
+- Adicione a view para a tabela
+- Adicione o link para a nova tabela em app/view/_templates/header.php
 
 ## Alguns recursos
 
