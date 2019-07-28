@@ -129,7 +129,7 @@ View
 
 ## Classes básicas
 
-Core/Application.php - interage com os Controllers para controlar as rotas
+Core/Application.php - interage com os Controllers para controlar as rotas, juntamente com os .htaccess do raiz e da pasta public
 Core/Model.php - classe básica das classes Model
 
 
