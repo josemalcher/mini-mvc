@@ -1,6 +1,7 @@
 # Aplicativo simples em PHP usando MVC com PDO
 
-## Criar um aplicativo com a arquitetura MVC usando o mini3 https://github.com/panique/mini3
+## Criar um aplicativo com a arquitetura MVC usando o mini3 
+https://github.com/panique/mini3
 
 Este aplicativo usa 3 tabelas, clientes, funcionários e produtos.
 
